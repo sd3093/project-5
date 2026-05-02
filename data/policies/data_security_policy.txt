@@ -1,0 +1,80 @@
+DATA SECURITY AND ACCEPTABLE USE POLICY
+Nexus Technologies Inc.
+Effective Date: January 1, 2025
+Last Updated: March 1, 2025
+
+1. PURPOSE
+
+This policy defines the security requirements and acceptable use standards for all information systems, data, and technology resources at Nexus Technologies Inc. Protecting our data and our customers' data is a shared responsibility of every employee.
+
+2. SCOPE
+
+This policy applies to all employees, contractors, temporary workers, and third parties who access Nexus Technologies information systems or handle company data. It covers all company-owned devices, personally-owned devices used for work (BYOD), and all data created, stored, or transmitted using company systems.
+
+3. DATA CLASSIFICATION
+
+All company data falls into one of four classification levels:
+
+Public: Information intended for public distribution (marketing materials, press releases, published blog posts). No special handling required.
+
+Internal: General business information not intended for public release (internal memos, meeting notes, project plans). Must not be shared externally without manager approval.
+
+Confidential: Sensitive business information (financial reports, customer lists, product roadmaps, employee records, salary data). Must be encrypted in transit and at rest. Access granted on a need-to-know basis only.
+
+Restricted: Highly sensitive data (PII, payment card data, health records, authentication credentials, encryption keys). Requires the highest level of protection. Access requires specific authorization from the Data Security team. Must be encrypted with AES-256 or equivalent.
+
+4. PASSWORD AND AUTHENTICATION
+
+All employees must use passwords that are at least 12 characters long and include a mix of uppercase letters, lowercase letters, numbers, and special characters. Passwords must be changed every 90 days. The same password may not be reused within 12 cycles.
+
+Multi-factor authentication (MFA) is required for all company systems, including email, VPN, cloud services, and code repositories. Employees must use the company-approved authenticator app (currently Google Authenticator or Okta Verify). SMS-based authentication is not permitted for Confidential or Restricted systems.
+
+Employees must never share their passwords or authentication credentials with anyone, including IT staff. IT will never ask for your password.
+
+5. DEVICE SECURITY
+
+5.1 Company Devices
+All company laptops must have full-disk encryption enabled (FileVault for Mac, BitLocker for Windows). Automatic screen lock must be set to activate after 5 minutes of inactivity. Anti-virus software must be kept current with automatic updates enabled.
+
+Company devices must not be left unattended in public places. When traveling, laptops should be kept in carry-on luggage, never checked baggage.
+
+5.2 Personal Devices (BYOD)
+Personal devices used to access company email or systems must meet minimum security requirements: device encryption enabled, screen lock with biometric or PIN, current operating system version (no more than 2 major versions behind). Personal devices must be enrolled in the company's mobile device management (MDM) system.
+
+If a personal device used for work is lost or stolen, it must be reported to IT immediately at security@nexustech.com. The company reserves the right to remotely wipe company data from personal devices.
+
+6. NETWORK AND INTERNET USE
+
+6.1 VPN Requirements
+All remote access to company systems must use the company VPN (currently Cisco AnyConnect). Employees must never access Internal, Confidential, or Restricted data over public Wi-Fi without VPN.
+
+6.2 Acceptable Internet Use
+Company internet access is provided primarily for business purposes. Limited personal use is acceptable during breaks if it does not violate any laws, consume excessive bandwidth, or interfere with work. The following activities are strictly prohibited on company networks: accessing or downloading illegal content, using peer-to-peer file sharing, circumventing security controls or content filters, and cryptocurrency mining.
+
+7. EMAIL AND COMMUNICATION SECURITY
+
+Employees must exercise caution with email attachments and links. Do not open attachments or click links from unknown senders. Report suspicious emails to security@nexustech.com or use the "Report Phishing" button in Outlook.
+
+Confidential or Restricted data must not be sent via email unless encrypted. Use the company's secure file sharing platform (currently Box) for transferring sensitive files. Never send passwords, API keys, or access tokens via email, Slack, or any messaging platform.
+
+8. SOFTWARE AND CLOUD SERVICES
+
+Only IT-approved software may be installed on company devices. Requests for new software should be submitted through the IT Service Portal. Employees must not sign up for cloud services (SaaS tools) using company data without IT and Security team approval. This includes free trials and freemium services.
+
+All software must be kept current with security patches. Automatic updates should be enabled where possible. IT will push critical security updates that must be installed within 48 hours.
+
+9. INCIDENT REPORTING
+
+All security incidents must be reported immediately to the Security team at security@nexustech.com or by calling the Security Hotline at extension 7233. Security incidents include but are not limited to: lost or stolen devices, suspected phishing attempts, unauthorized access to data or systems, malware infections, accidental disclosure of confidential information, and any other suspicious activity.
+
+When reporting an incident, provide: what happened, when it happened, what data or systems were involved, and any actions already taken. Do not attempt to investigate or resolve security incidents on your own.
+
+10. TRAINING AND COMPLIANCE
+
+All employees must complete annual security awareness training within the first 30 days of each calendar year. New employees must complete training within their first week. Phishing simulation exercises are conducted quarterly. Employees who fail phishing simulations will be required to complete additional training.
+
+11. CONSEQUENCES
+
+Violations of this policy may result in disciplinary action up to and including termination of employment. In cases involving illegal activity or willful data breaches, the company may pursue legal action. Third-party contractors found in violation may have their access immediately revoked and contracts terminated.
+
+For questions about data security, contact security@nexustech.com.

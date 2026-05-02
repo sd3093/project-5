@@ -1,0 +1,71 @@
+CODE OF CONDUCT
+Nexus Technologies Inc.
+Effective Date: January 1, 2025
+Last Updated: January 30, 2025
+
+1. PURPOSE AND SCOPE
+
+This Code of Conduct establishes the ethical standards and behavioral expectations for all employees, contractors, and representatives of Nexus Technologies Inc. Every person who works for or represents our company is expected to act with integrity, professionalism, and respect in all interactions.
+
+2. CORE VALUES
+
+Our Code of Conduct is built on four core values:
+- Integrity: We do the right thing, even when no one is watching.
+- Respect: We treat everyone with dignity and fairness.
+- Excellence: We hold ourselves to high standards in our work.
+- Collaboration: We succeed together through open communication and teamwork.
+
+3. WORKPLACE BEHAVIOR
+
+3.1 Respect and Inclusion
+Nexus Technologies is committed to maintaining a workplace free from discrimination, harassment, and bullying. We do not tolerate discrimination based on race, color, religion, gender, gender identity or expression, sexual orientation, national origin, age, disability, veteran status, or any other protected characteristic.
+
+All employees must treat colleagues, clients, vendors, and partners with respect and professionalism. Jokes, comments, or actions that demean or marginalize any individual or group are strictly prohibited.
+
+3.2 Harassment
+Harassment of any kind is prohibited, including but not limited to: unwelcome sexual advances, requests for sexual favors, offensive jokes or comments, intimidation, bullying, physical or verbal threats, and inappropriate physical contact.
+
+Any employee who experiences or witnesses harassment should report it immediately through any of the following channels: their direct manager, HR at hr@nexustech.com, the anonymous Ethics Hotline at 1-800-555-0187, or through the EthicsPoint portal on the company intranet. All reports will be investigated promptly and confidentially.
+
+Retaliation against anyone who reports harassment or participates in an investigation is strictly prohibited and will result in disciplinary action up to and including termination.
+
+3.3 Substance Use
+Employees must not be under the influence of alcohol or illegal drugs while working or representing the company. Moderate alcohol consumption may be appropriate at company social events, but employees are expected to exercise good judgment. The company reserves the right to conduct drug testing in safety-sensitive positions or when there is reasonable suspicion of impairment.
+
+4. CONFLICTS OF INTEREST
+
+Employees must avoid situations where their personal interests conflict with the interests of the company. This includes but is not limited to: having a financial interest in a competitor, customer, or supplier; accepting gifts or entertainment from business partners that could influence decision-making; engaging in outside employment that interferes with job responsibilities; and hiring or supervising immediate family members.
+
+Gifts valued at more than $50 from vendors, clients, or partners must be reported to your manager and may need to be returned or donated. Occasional business meals and promotional items of minimal value are generally acceptable.
+
+Employees must disclose any potential conflicts of interest to their manager and HR in writing. Failure to disclose a conflict of interest may result in disciplinary action.
+
+5. CONFIDENTIALITY AND INTELLECTUAL PROPERTY
+
+All employees must protect the company's confidential information, including but not limited to: trade secrets, product roadmaps, financial data, customer information, employee data, and business strategies. Confidential information must not be shared with anyone outside the company without proper authorization.
+
+All work products created during the course of employment — including code, designs, documents, and inventions — are the intellectual property of Nexus Technologies Inc. as outlined in the employee's Intellectual Property Assignment Agreement.
+
+Employees must comply with all applicable data privacy laws and regulations, including the handling of personally identifiable information (PII) of customers and employees. See the Data Security Policy for detailed requirements.
+
+6. USE OF COMPANY RESOURCES
+
+Company resources — including equipment, software, email, internet access, and office supplies — are provided for business use. Incidental personal use is permitted but should not interfere with job responsibilities, violate any law or policy, or consume significant resources.
+
+Company email and systems are company property. Nexus Technologies reserves the right to monitor email, internet usage, and other electronic communications on company systems. Employees should have no expectation of privacy when using company resources.
+
+7. SOCIAL MEDIA
+
+Employees are free to use personal social media accounts, but must not post confidential company information, speak on behalf of the company without authorization, or make statements that could damage the company's reputation. When discussing the company or its industry online, employees should clearly state that views are their own and not those of Nexus Technologies.
+
+8. REPORTING VIOLATIONS
+
+All employees have a responsibility to report known or suspected violations of this Code of Conduct. Reports can be made to a manager, HR, the Legal department, or anonymously through the Ethics Hotline (1-800-555-0187) or EthicsPoint portal. All reports will be investigated thoroughly and handled with appropriate confidentiality.
+
+9. CONSEQUENCES
+
+Violations of this Code of Conduct may result in disciplinary action, up to and including termination of employment and, where applicable, legal action. The severity of the consequence will depend on the nature and circumstances of the violation.
+
+10. ACKNOWLEDGMENT
+
+All employees are required to read, understand, and sign an acknowledgment of this Code of Conduct upon hire and annually thereafter during the compliance training period in January. Questions about this Code of Conduct should be directed to ethics@nexustech.com.

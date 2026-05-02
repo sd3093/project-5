@@ -1,0 +1,54 @@
+REMOTE WORK POLICY
+Nexus Technologies Inc.
+Effective Date: January 1, 2025
+Last Updated: March 15, 2025
+
+1. PURPOSE AND SCOPE
+
+This policy establishes guidelines for remote work arrangements at Nexus Technologies Inc. It applies to all full-time and part-time employees who have been approved for remote work by their direct manager and Human Resources.
+
+2. ELIGIBILITY
+
+All employees who have completed their 90-day probationary period are eligible to apply for remote work. Eligibility is determined by the employee's role, performance history, and the operational needs of their department. Employees must maintain a performance rating of "Meets Expectations" or above to retain remote work privileges.
+
+Certain roles that require physical presence — such as facilities management, hardware lab technicians, and front desk reception — are not eligible for remote work.
+
+3. WORK SCHEDULE AND AVAILABILITY
+
+Remote employees must maintain their standard work schedule (typically 9:00 AM to 5:00 PM in their local time zone) and be available via Slack, email, and video conferencing during core business hours of 10:00 AM to 3:00 PM Eastern Time.
+
+Employees may adjust their start and end times with manager approval, provided they are available during core hours and complete their standard weekly hours (40 hours for full-time employees).
+
+4. WORKSPACE REQUIREMENTS
+
+Remote employees must maintain a dedicated workspace that is quiet, free from distractions, and suitable for video calls. The company will provide a one-time home office stipend of $500 for new remote workers to purchase necessary equipment such as a monitor, keyboard, mouse, or desk.
+
+Employees are responsible for maintaining a reliable internet connection with a minimum speed of 25 Mbps download and 5 Mbps upload. If internet service is disrupted for more than 2 hours, the employee must notify their manager and either relocate to a location with internet access or use PTO for the remainder of the day.
+
+5. EQUIPMENT AND SECURITY
+
+The company provides a laptop, charger, and any role-specific software licenses. All company equipment must be used in accordance with the Information Security Policy. Employees must use the company VPN when accessing internal systems and must not allow non-employees to use company equipment.
+
+Lost or stolen equipment must be reported to IT immediately by emailing security@nexustech.com or calling the IT helpdesk at extension 4357.
+
+6. COMMUNICATION AND MEETINGS
+
+Remote employees are expected to attend all scheduled team meetings via video with cameras on, unless prior arrangements have been made. Employees should respond to Slack messages within 1 hour during business hours and to emails within 4 hours.
+
+7. IN-OFFICE REQUIREMENTS
+
+Fully remote employees are expected to visit the office for quarterly team events, annual company retreats, and any mandatory in-person meetings as communicated by their manager with at least 2 weeks notice. The company will reimburse reasonable travel expenses for these visits in accordance with the Travel and Expense Policy.
+
+Hybrid employees must work from the office on their designated in-office days (typically Tuesday through Thursday) unless otherwise approved by their manager.
+
+8. PERFORMANCE AND ACCOUNTABILITY
+
+Remote employees are held to the same performance standards as in-office employees. Managers will conduct monthly one-on-one check-ins and quarterly performance reviews. Failure to maintain productivity standards, meet deadlines, or remain available during core hours may result in modification or revocation of remote work privileges.
+
+9. TERMINATION OF REMOTE WORK ARRANGEMENT
+
+Either the employee or the company may terminate a remote work arrangement with 30 days written notice. The company reserves the right to require immediate return to in-office work if business needs require it, with reasonable accommodation for relocation.
+
+Upon termination of employment, all company equipment must be returned within 5 business days via the prepaid shipping label provided by HR.
+
+For questions about this policy, contact hr@nexustech.com.

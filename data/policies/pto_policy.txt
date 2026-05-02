@@ -1,0 +1,72 @@
+PAID TIME OFF (PTO) POLICY
+Nexus Technologies Inc.
+Effective Date: January 1, 2025
+Last Updated: January 15, 2025
+
+1. PURPOSE
+
+This policy outlines the paid time off benefits available to eligible employees of Nexus Technologies Inc. We believe that regular time away from work is essential for maintaining health, well-being, and sustained productivity.
+
+2. ELIGIBILITY
+
+All regular full-time employees are eligible for PTO benefits starting on their first day of employment. Part-time employees who work at least 20 hours per week receive PTO on a prorated basis. Temporary contractors and interns are not eligible for PTO.
+
+3. PTO ALLOWANCE
+
+3.1 Vacation Days
+Employees with 0-2 years of tenure: 15 days per year (accrued at 1.25 days per month)
+Employees with 3-5 years of tenure: 20 days per year (accrued at 1.67 days per month)
+Employees with 6+ years of tenure: 25 days per year (accrued at 2.08 days per month)
+
+3.2 Sick Days
+All employees receive 10 sick days per year, available in full on January 1. Sick days may be used for personal illness, medical appointments, mental health days, or caring for an immediate family member who is ill.
+
+If an employee is sick for 3 or more consecutive days, they may be asked to provide a doctor's note upon return. Unused sick days do not carry over to the next year and are not paid out upon separation.
+
+3.3 Personal Days
+All employees receive 3 personal days per year for matters such as moving, family obligations, religious observances, or other personal needs. Personal days do not require a specific reason. Unused personal days do not carry over.
+
+4. HOLIDAYS
+
+Nexus Technologies observes the following paid holidays:
+- New Year's Day (January 1)
+- Martin Luther King Jr. Day (3rd Monday in January)
+- Presidents' Day (3rd Monday in February)
+- Memorial Day (last Monday in May)
+- Independence Day (July 4)
+- Labor Day (1st Monday in September)
+- Thanksgiving Day (4th Thursday in November)
+- Day after Thanksgiving (4th Friday in November)
+- Christmas Eve (December 24)
+- Christmas Day (December 25)
+- New Year's Eve (December 31)
+
+When a holiday falls on a Saturday, it is observed on the preceding Friday. When it falls on a Sunday, it is observed on the following Monday.
+
+5. REQUESTING TIME OFF
+
+PTO requests should be submitted through BambooHR at least 2 weeks in advance for planned absences. For unplanned absences (illness), employees should notify their manager via Slack or email before the start of their shift. Managers should respond to PTO requests within 3 business days.
+
+PTO requests during peak business periods (quarter-end: March, June, September, December) may be subject to additional restrictions. No more than 2 team members should be out simultaneously, and managers may need to deny requests that would impact critical deliverables.
+
+6. CARRYOVER AND MAXIMUM BALANCE
+
+Unused vacation days may be carried over to the following year, up to a maximum balance of 10 days. Any days exceeding the maximum balance as of December 31 will be forfeited. Employees are encouraged to use their PTO throughout the year rather than banking it.
+
+7. BEREAVEMENT LEAVE
+
+Employees receive 5 days of paid bereavement leave for the death of an immediate family member (spouse, domestic partner, parent, child, sibling, grandparent, or grandchild). 3 days of bereavement leave are provided for extended family members (aunt, uncle, niece, nephew, cousin, in-laws). Additional unpaid time may be arranged with manager and HR approval.
+
+8. JURY DUTY
+
+Employees called for jury duty will receive their full salary for up to 10 business days. If jury duty extends beyond 10 days, the employee will receive the difference between jury duty pay and their regular salary. Employees must provide a copy of the jury duty summons to HR.
+
+9. PARENTAL LEAVE
+
+New parents (birth, adoption, or foster placement) receive 12 weeks of paid parental leave at 100% of their salary. This applies to all parents regardless of gender. Parental leave may be taken in a single block or split into two periods within the first 12 months of the child's arrival, with manager approval.
+
+10. PTO PAYOUT UPON SEPARATION
+
+Accrued but unused vacation days will be paid out upon voluntary or involuntary separation from the company. Sick days and personal days are not paid out. Employees who resign must provide at least 2 weeks notice to receive PTO payout.
+
+For questions about this policy, contact hr@nexustech.com or visit the Benefits section of BambooHR.

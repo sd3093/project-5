@@ -6,7 +6,6 @@ An AI-powered Q&A chatbot that answers employee questions about company policies
 
 ## Results
 
-- Indexed **6 policy documents** split into **17 searchable chunks** using 384-dimensional embeddings
 - Answers questions with **source citations** pointing to the exact policy document used
 - Semantic search retrieves relevant policy sections by *meaning*, not just keywords — e.g., asking about "working from home" correctly surfaces the remote work policy
 - Tested against 8 diverse questions spanning all 6 policy areas with accurate, grounded responses
